@@ -1,0 +1,16 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated media files (IMPORTANT for your project)
+*.mp4
+*.wav
+*.mp3
+
+# Image/Audio asset folders (if you create them)
+audio_files/
+images/
